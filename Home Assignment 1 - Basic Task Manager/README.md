@@ -223,7 +223,7 @@ This implementation demonstrates:
 
 ---
 
-**Developer**: [Your Name]  
-**Date**: [Current Date]  
+**Developer**: [TANISHQ GARG]  
+**Date**: [26-OCT-2025]  
 **Assignment**: Home Assignment 1 - Basic Task Manager  
 **Credits**: 10
